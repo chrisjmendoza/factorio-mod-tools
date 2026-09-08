@@ -52,3 +52,7 @@ byte-reproducible between builds.
 The event check reads the API docs shipped with Factorio. It looks in the
 default Steam location; override with `FACTORIO_DEFINES_HTML` if your install
 is elsewhere. Without those docs the check is skipped rather than guessed at.
+
+## License
+
+MIT — see [LICENSE](LICENSE).
